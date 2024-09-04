@@ -1,0 +1,26 @@
+¿Cuáles son las reglas escritas del lenguaje JavaScript? JavaScript sigue un conjunto específico de reglas sintácticas y
+semánticas que definen cómo deben escribirse y comportarse los programas en el lenguaje. Estas reglas incluyen:
+- Sintaxis, Declaración de variables(var, let, y const), Tipadob(tipado dinámico),Funciones,Objetos y Arrays, Eventos y Asincronía.
+
+¿Qué características particulares del lenguaje JavaScript se cree que sean "mejores" que en otros lenguajes?su gran Ecosistema con amplia
+gama de bibliotecas y frameworks disponibles, como React, Angular y Node.js para el desarrollo tanto en el navegador como en el servidor.
+Es el lenguaje de programación principal para el desarrollo web y es soportado por todos los navegadores modernos.
+
+1-¿Tiene una sintaxis y una semántica bien definida? ¿Existe documentación oficial? Si, ya que tiene su forma de como deben estructuranrse
+los programas, declaración de variables, las condiciones, bucles, funciones, etc. Tambien como se debe comportar el código al ejecutarse
+y la manipulación de datos. Existe documentación oficial que es ECMAScript (ECMA-262).
+
+2- ¿Es posible comprobar el código producido en ese lenguaje? Si, existen validadores como Eslint que puede analizar código y
+compararlo con un conjunto de reglas
+
+3- ¿Es confiable? Si, mas que nada en el lado del desarrollo web
+
+4-¿Es ortogonal? No tanto, ya que tiene una manera diferente de manejar tipos y el alcance de variables
+
+5- ¿Cuáles son sus características de consistencia y uniformidad? Su sintaxis y comportamiento es consistente, se han implementado clases para mejorar 
+la uniformidad aunque puede generar fragmentación entre el código nuevo y el anterior
+
+6-¿Es extensible? ¿Hay subconjuntos de ese lenguaje? Si, ya se pueden agregan funciones a través de bibliotecas o frameworks y
+crear propias estructuras de datos. Tiene subconjuntos como TipeScript
+
+7-El código producido, ¿es transportable? Si, este es ejecutado por todos los navegadores web sin tener que cambiar el código ejecutado
