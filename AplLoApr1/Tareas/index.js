@@ -30,12 +30,10 @@ while(op!=0){
             }
             mostrarTitulos(tareas,eleccion);
             indice = parseInt(prompt("Ingrese el numero correspondiente de la tarea para poder ver sus detalles(en caso de no querer ingrese el 0): "));
-            if (indice == 0){
-                break;
-            }else{
-                console.log("Tarea no encontrada");
+            if (indice != 0){
+                detalles(tareas,indice);
             }
-            detalles(tareas,indice);
+            
 
             prompt("Presione un tecla para continuar...");
             console.clear();
