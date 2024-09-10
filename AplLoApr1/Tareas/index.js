@@ -5,7 +5,6 @@ const prompt = promptSync({ sigint: true });
 
 let op=-1,eleccion,indice;
 
-
 //Instrucciones
 const instrucciones = function(){
     console.log("Ingrese una opcion:");
