@@ -1,1 +1,15 @@
+TypeScript:
 
+1. Generalización simbólica: ¿Cuáles son las reglas escritas del lenguaje?
+*Las reglas formales y la sintaxis que definen el funcionamiento de TypeScript son:
+- Tiene paradigma estructurado, usa estructuras como bucles (for, while), condicionales (if, switch), y funciones para organizar 
+el flujo del programa.
+- Introduce el concepto de tipado estático sobre JavaScript, donde los tipos de las variables y funciones deben declararse o inferirse.
+- Permite dividir el código en funciones y módulos para garantizar que se sigan las buenas prácticas de programación estructurada, 
+manteniendo el código legible y bien organizado.
+
+2. Creencias de los profesionales: ¿Qué características particulares del lenguaje se cree que sean "mejores" que en otros lenguajes?
+* Su seguridad y robustez al tener tipado estático, los errores pueden detectarse en tiempo de compilación en lugar de en tiempo de ejecución.
+Es más adecuado para proyectos grandes asi que su escalabilidad es importante, ya que su sistema de tipos y modularidad facilitan el mantenimiento
+y la evolución del código. Al estar basado en JavaScript,ofrece una transición fácil y agrega valor sin perder la flexibilidad de JavaScript.
+El uso de tipos explícitos y una estructura más clara permiten un código más fácil de leer y mantener.
