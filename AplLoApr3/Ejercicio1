@@ -1,0 +1,5 @@
+1-Generalizaciones simbolicas de Javascript: es de tipado dinamico ya que las variables pueden contener diferentes tipos de datos,las
+funciones pueden ser asignadas a variables,el sistema de herencia de javaScript se basa en prototipos.
+
+2-Creencias de los profesionales:es un lenguaje flexible, permite programar tanto en paradigma funcional como en orientado a objetos,
+Node.js y npm facilita el desarrollo con herramientas y librerias ya existentes.
