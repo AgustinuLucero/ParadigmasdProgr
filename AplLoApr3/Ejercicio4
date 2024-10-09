@@ -1,0 +1,8 @@
+Utilice herencia en el ejercicio 2 para que los numeros ingresados se relacionen con cada operacion de la clase calculadroa, 
+tanto en el ejercicio 2 y 3 utilize modularizacion y asi dividir en varios programas y asi tener un mejor orden, en el ejercicio dos 
+declaro un objeto con sus metodos en este caso metodos set y en el 3 dos clases y una hereda cosas de la otra
+
+Algunas caracteristicas que se me vienen a la cabeza que no utilize son el encapsulamiento ya que no crei que fuera necesario en este caso para
+una calculadora basica tener algun control para los numeros y las operaciones como private public (aunque pude haberlas utilizado),
+y el polimorfismo ya que tampoco creo que era necesario que la calculadora o los numeros tengan varias formas,
+lo mismo me paso en el ejercicio de las tareas.
